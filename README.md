@@ -5,3 +5,5 @@ Islamic is a project that contains the entire Holy Qur’an and contains remembr
 ![m](https://user-images.githubusercontent.com/43734469/173714296-d903bb03-93df-4422-a014-bc677d6478b9.png)
 ![mm](https://user-images.githubusercontent.com/43734469/173714370-30d04ad6-673b-46a0-ba79-f2377c1c2454.png)
 ![ma](https://user-images.githubusercontent.com/43734469/173714428-276654e1-9481-4cd7-ba86-b00fb89fed45.png)
+![aw](https://user-images.githubusercontent.com/43734469/173714523-00ef8537-feba-47d8-835e-5355ab7e843f.png)
+
